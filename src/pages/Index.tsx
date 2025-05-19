@@ -1,8 +1,8 @@
-
 import React, { useState } from 'react';
 import Header from '@/components/Header';
 import ServicesGrid from '@/components/ServicesGrid';
 import ContactSection from '@/components/ContactSection';
+import PartnersSection from '@/components/PartnersSection';
 import Footer from '@/components/Footer';
 // import ServiceFilter from '@/components/ServiceFilter';
 
@@ -32,6 +32,7 @@ const Index = () => {
           </div>
         </section>
         
+        <PartnersSection />
         <ContactSection />
       </main>
       
