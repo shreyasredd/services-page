@@ -13,20 +13,20 @@ const serviceCategories = {
 };
 
 const serviceData = [
-  {
-    icon: <Rocket className="w-6 h-6" />,
-    id: "innovation",
-    title: "Drive Innovation with Finxbridge",
-    description: "Built for Transformation. Designed for Impact.",
-    highlights: [
-      "Technology modernization & transformation consulting",
-      "Cross-industry digital solution design",
-      "Agile & scalable implementation models",
-      "End-to-end project execution with measurable ROI"
-    ],
-    colorClass: "bg-finx-primary",
-    iconBgClass: "bg-finx-primary/10"
-  },
+  // {
+  //   icon: <Rocket className="w-6 h-6" />,
+  //   id: "innovation",
+  //   title: "Drive Innovation with Finxbridge",
+  //   description: "Built for Transformation. Designed for Impact.",
+  //   highlights: [
+  //     "Technology modernization & transformation consulting",
+  //     "Cross-industry digital solution design",
+  //     "Agile & scalable implementation models",
+  //     "End-to-end project execution with measurable ROI"
+  //   ],
+  //   colorClass: "bg-finx-primary",
+  //   iconBgClass: "bg-finx-primary/10"
+  // },
   {
     icon: <Handshake className="w-6 h-6" />,
     id: "partnerships",
